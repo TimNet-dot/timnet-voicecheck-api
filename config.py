@@ -1,0 +1,3 @@
+MAX_AUDIO_SIZE_MB = 5
+RATE_LIMIT_PER_MINUTE = 30
+ALLOWED_ORIGINS = ["https://timnet.app"]
